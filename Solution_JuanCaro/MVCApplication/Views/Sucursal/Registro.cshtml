@@ -1,0 +1,102 @@
+﻿@model ENTIDADES.ENT_Sucursal
+
+@{
+    ViewBag.Title = "Registro";
+}
+
+<h2>Registro</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" ng-app="appSucursal" ng-controller="ctrSucursal as ctrl">
+        <h4>Sucursal</h4>
+        <hr />
+
+
+        <div class="form-group">
+            <div class="col-md-2">
+                Nombre Sucursal
+            </div>
+            <div class="col-md-10">
+                <input class="form-control" type="text" ng-model="ctrl.Grabar.Nombre_Sucursal" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2">
+                Direccion
+            </div>
+            <div class="col-md-10">
+                <input class="form-control" type="text" ng-model="ctrl.Grabar.Direccion_Sucursal" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2">
+                Banco
+            </div>
+            <div class="col-md-10">
+                <select ng-model="ctrl.Grabar.Id_Banco">
+                    @for (int i = 0; i < Model.Lst_Bancos.Count; i++)
+                    {
+                        <option value="@Model.Lst_Bancos[i].Id_Banco">@Model.Lst_Bancos[i].Nombre_Banco</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input value="Create" class="btn btn-default" ng-click="ctrl.Guardar()" />
+            </div>
+        </div>
+
+
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Listado", "Listado")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script src="~/Scripts/angular1.5.js"></script>
+
+<script type="text/javascript">
+
+    angular
+        .module('appSucursal', [])
+        .controller('ctrSucursal', ['$http', function ($http) {
+            //
+            var ctrl = this;
+
+            ctrl.Graba = {
+                Nombre_Banco: "",
+                Direccion_Banco: "",
+                Id_Banco: 0
+            };
+
+            ctrl.Guardar = function () {
+                //
+                var Guardar_Sucursal = '@Url.Action("Guardar", "Sucursal")';
+                $http.post(Guardar_Sucursal, ctrl.Grabar).then(function (resultado) {
+                    //
+                    var s_CODIGO = resultado.data.CODIGO;
+                    if (s_CODIGO == 0) {
+                        alert("Se registro correctamente!!!");
+                        location.href = "/Sucursal/Listado";
+                    }
+                    else {
+                        alert("Ocurrio un error!!!");
+                    }
+                });
+            };
+        }]);
+
+</script>

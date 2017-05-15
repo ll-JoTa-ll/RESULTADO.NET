@@ -1,0 +1,14 @@
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.csprojResolveAssemblyReference.cache
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.dll
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.pdb
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ENTIDADES.dll
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ENTIDADES.pdb
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.dll
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.pdb
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.dll
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ACCESO_DATOS.pdb
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ENTIDADES.dll
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\bin\Debug\ENTIDADES.pdb
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.csprojResolveAssemblyReference.cache
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.dll
+D:\JoTa\Solution_JuanCaro\ACCESO_DATOS\obj\Debug\ACCESO_DATOS.pdb

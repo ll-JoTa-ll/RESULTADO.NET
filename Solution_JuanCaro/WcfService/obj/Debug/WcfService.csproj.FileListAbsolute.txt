@@ -1,0 +1,12 @@
+D:\JoTa\Solution_JuanCaro\WcfService\bin\WcfService.dll.config
+D:\JoTa\Solution_JuanCaro\WcfService\bin\WcfService.dll
+D:\JoTa\Solution_JuanCaro\WcfService\bin\WcfService.pdb
+D:\JoTa\Solution_JuanCaro\WcfService\bin\CONTROLADORA.dll
+D:\JoTa\Solution_JuanCaro\WcfService\bin\ENTIDADES.dll
+D:\JoTa\Solution_JuanCaro\WcfService\bin\ACCESO_DATOS.dll
+D:\JoTa\Solution_JuanCaro\WcfService\bin\CONTROLADORA.pdb
+D:\JoTa\Solution_JuanCaro\WcfService\bin\ENTIDADES.pdb
+D:\JoTa\Solution_JuanCaro\WcfService\bin\ACCESO_DATOS.pdb
+D:\JoTa\Solution_JuanCaro\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\JoTa\Solution_JuanCaro\WcfService\obj\Debug\WcfService.dll
+D:\JoTa\Solution_JuanCaro\WcfService\obj\Debug\WcfService.pdb

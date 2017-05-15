@@ -1,0 +1,8 @@
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ENTIDADES\bin\Debug\ENTIDADES.dll
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ENTIDADES\bin\Debug\ENTIDADES.pdb
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ENTIDADES\obj\Debug\ENTIDADES.dll
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ENTIDADES\obj\Debug\ENTIDADES.pdb
+D:\JoTa\Solution_JuanCaro\ENTIDADES\bin\Debug\ENTIDADES.dll
+D:\JoTa\Solution_JuanCaro\ENTIDADES\bin\Debug\ENTIDADES.pdb
+D:\JoTa\Solution_JuanCaro\ENTIDADES\obj\Debug\ENTIDADES.dll
+D:\JoTa\Solution_JuanCaro\ENTIDADES\obj\Debug\ENTIDADES.pdb

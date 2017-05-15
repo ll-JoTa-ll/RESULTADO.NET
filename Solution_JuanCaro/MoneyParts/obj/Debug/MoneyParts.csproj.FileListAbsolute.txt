@@ -1,0 +1,10 @@
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.exe.config
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.exe
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.pdb
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\MoneyParts\obj\Debug\MoneyParts.exe
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\MoneyParts\obj\Debug\MoneyParts.pdb
+D:\JoTa\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.exe.config
+D:\JoTa\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.exe
+D:\JoTa\Solution_JuanCaro\MoneyParts\bin\Debug\MoneyParts.pdb
+D:\JoTa\Solution_JuanCaro\MoneyParts\obj\Debug\MoneyParts.exe
+D:\JoTa\Solution_JuanCaro\MoneyParts\obj\Debug\MoneyParts.pdb

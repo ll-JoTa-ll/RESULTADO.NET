@@ -1,0 +1,10 @@
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.exe.config
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.exe
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.pdb
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ChangeString\obj\Debug\ChangeString.exe
+D:\JoTa\ExamenGrupoComercio\Solution_JuanCaro\ChangeString\obj\Debug\ChangeString.pdb
+D:\JoTa\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.exe.config
+D:\JoTa\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.exe
+D:\JoTa\Solution_JuanCaro\ChangeString\bin\Debug\ChangeString.pdb
+D:\JoTa\Solution_JuanCaro\ChangeString\obj\Debug\ChangeString.exe
+D:\JoTa\Solution_JuanCaro\ChangeString\obj\Debug\ChangeString.pdb

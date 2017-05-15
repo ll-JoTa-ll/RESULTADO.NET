@@ -1,0 +1,57 @@
+﻿@model IEnumerable<MVCApplication.Models.BancoModel>
+
+@{
+    ViewBag.Title = "Consulta";
+}
+
+<h2>Consulta</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_Banco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre_Banco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion_Banco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha_Registro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_Banco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre_Banco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion_Banco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha_Registro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
